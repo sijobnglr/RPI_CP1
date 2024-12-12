@@ -1,2 +1,4 @@
 wget https://raw.githubusercontent.com/sijobnglr/RPI_CP1/refs/heads/main/Installer.sh && sudo chmod +x Installer.sh && sudo ./Installer.sh
 
+wget https://raw.githubusercontent.com/sijobnglr/RPI_CP1/refs/heads/main/Serial.sh && sudo chmod +x Serial.sh && sudo ./Serial.sh
+
